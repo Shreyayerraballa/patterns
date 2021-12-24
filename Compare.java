@@ -15,8 +15,8 @@
 }
 // output
 // PS C:\exercise\day 10> java CompareTo
-// viritha
-// Viritha
+// shreya
+// shreya
 // 
 // 32
 // 7

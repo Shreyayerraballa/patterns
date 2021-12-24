@@ -22,8 +22,8 @@ public class Contains {
 }
 // out put
 // PS C:\exercise\day 10> java Contains      
-// viritha varma
-// viritha
+// shreya yerraballa
+// shreya
 // true
 // false
 // true

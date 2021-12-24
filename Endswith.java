@@ -13,8 +13,8 @@ public static void main(String[] args){
 }
 // output
 // PS C:\exercise\day 10> java EndsWith      
-// viritha 
-// varma
+// shreya
+// kashyap
 // false
 // true
 // Exception in thread "main" java.lang.NullPointerException: Cannot invoke "String.length()" because "suffix" is null
